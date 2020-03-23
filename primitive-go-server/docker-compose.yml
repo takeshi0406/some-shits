@@ -1,0 +1,8 @@
+version: "3"
+services:
+  web:
+    build: .
+    command: /usr/local/bin/hello
+    image: web:latest
+    ports:
+      - 8888:8888
