@@ -1,0 +1,7 @@
+README.rst
+setup.py
+nptyping_test/__init__.py
+nptyping_test.egg-info/PKG-INFO
+nptyping_test.egg-info/SOURCES.txt
+nptyping_test.egg-info/dependency_links.txt
+nptyping_test.egg-info/top_level.txt
