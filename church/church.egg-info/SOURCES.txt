@@ -1,0 +1,6 @@
+church.py
+setup.py
+church.egg-info/PKG-INFO
+church.egg-info/SOURCES.txt
+church.egg-info/dependency_links.txt
+church.egg-info/top_level.txt
